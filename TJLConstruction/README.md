@@ -1,5 +1,5 @@
-# TJLREACTMASTER
+## TJLREACTMASTER
 - This file contains the React front end
 
-#TJLConstruction
+## tjlconstruction
 - This file contians Java backend that connects to MySQL database
